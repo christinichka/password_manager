@@ -1,0 +1,4 @@
+Ebay | test@gmail.com | password
+Amazon | test@gmail.com | 12345
+Google | test@gmail.com | test
+Target | test@gmail.com | 9Zx&N+l7w6s!zo
